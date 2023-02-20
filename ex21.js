@@ -1,0 +1,12 @@
+// Compound Assignment With Augmented Subtraction
+
+let a = 11;
+let b = 9;
+let c = 3;
+
+// Only change code below this line 
+//solution
+
+a -= 6;
+b -= 15;
+c -= 1;
